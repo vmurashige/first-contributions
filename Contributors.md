@@ -1086,7 +1086,7 @@ _ [ ayush Z] @ devsocPI
 - [Iorvera](https://github.com/iorvera1/first-contributions)
 - [danesusername](https://github.com/danesusername)
 - [Rajat Bhosale](https://github.com/RajatBhosale)
-- [Veronica Murashige] (https://github.com/vmurashige) 
+- [Veronica Murashige](https://github.com/vmurashige) 
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
